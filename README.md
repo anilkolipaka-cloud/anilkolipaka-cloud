@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kolipaka</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/C:\Users\Anilk\OneDrive\Desktop"> </div>
 <h3 align="center">A passionate cloud and devops from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkolipaka-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="anilkolipaka-cloud" /> </p>
