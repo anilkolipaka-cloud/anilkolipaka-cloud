@@ -32,5 +32,6 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/anilkolipaka-cloud/anilkolipaka-cloud/blob/output/github-contribution-grid-snake.svg)
+![snake](https://anilkolipaka-cloud.github.io/anilkolipaka-cloud/github-contribution-grid-snake.svg)
+
 
