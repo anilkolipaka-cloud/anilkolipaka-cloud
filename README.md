@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **cloud and devOps**
 
-- 👨‍💻 All of my projects are available at [https://www.anilkolipaka.online/](https://www.anilkolipaka.online/)
+- 👨‍💻 All of my projects are available at [https://www.anilkolipaka.online/](https://github.com/anilkolipaka-cloud?tab=repositories)
 
 - 📫 How to reach me **anilkolipaka22@gmail.com**
 
